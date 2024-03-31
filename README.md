@@ -36,8 +36,5 @@ This project is a web application that leverages AWS services for performing cal
 - Sanjay kumar-(Frontend and Backend Depolyment)
 - AWS Community - Support and Contributions
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 Special thanks to AWS for providing the necessary services and resources for this project.
