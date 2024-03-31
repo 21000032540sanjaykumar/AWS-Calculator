@@ -41,10 +41,19 @@ This project is a web application that leverages AWS services for performing cal
 Special thanks to AWS for providing the necessary services and resources for this project.
 
 
-![IMG-20240331-WA0003](https://github.com/21000032540sanjaykumar/AWS-Calculator/assets/110719261/b30da4e1-59fc-45b2-a60f-87477ed55139)
+## Amplify
 ![IMG-20240331-WA0002](https://github.com/21000032540sanjaykumar/AWS-Calculator/assets/110719261/b7e6c5e9-ba26-4318-99b7-d8752b0a867d)
+
+## Lambda 
+![IMG-20240331-WA0003](https://github.com/21000032540sanjaykumar/AWS-Calculator/assets/110719261/b30da4e1-59fc-45b2-a60f-87477ed55139)
+
+## IAM
 ![IMG-20240331-WA0005](https://github.com/21000032540sanjaykumar/AWS-Calculator/assets/110719261/adfd0053-5c81-4807-b939-b2ec1a87da72)
+
+## Dynamo DB
 ![IMG-20240331-WA0006](https://github.com/21000032540sanjaykumar/AWS-Calculator/assets/110719261/eba19bb8-2de2-4240-af76-9ffbc42b0f89)
+
+## API Gateway
 ![IMG-20240331-WA0004](https://github.com/21000032540sanjaykumar/AWS-Calculator/assets/110719261/a7864c78-cbd3-4b82-9f6b-d7bb57457321)
 
 
